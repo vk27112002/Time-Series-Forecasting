@@ -4,13 +4,13 @@ This project focuses on the analysis and forecasting of atmospheric CO₂ concen
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To model and forecast monthly atmospheric CO₂ levels using SARIMA after performing exploratory analysis and transformation for stationarity.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source**: Mauna Loa Observatory, Hawaii
 - **Accessed via**: `statsmodels.datasets.co2`
@@ -19,7 +19,7 @@ To model and forecast monthly atmospheric CO₂ levels using SARIMA after perfor
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 1. **Exploratory Data Analysis**
    - Visualized raw time series trends
@@ -51,7 +51,7 @@ To model and forecast monthly atmospheric CO₂ levels using SARIMA after perfor
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 Vaibhav Khare
 
